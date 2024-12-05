@@ -38,7 +38,7 @@ Setelah memilih akun, user akan diminta untuk mengkonfirmasi sekali lagi sebelum
 
 Setelah login berhasil, user akan diarahkan ke Home Page, halaman home ini memiliki navigasi di bagian bawah untuk beralih ke halaman profile
 
-<img src="docs/home.png" height="300">
+<img src="docs/Home.png" height="300">
 
   - Setelah autentikasi berhasil, Firebase akan memberikan objek User
   - Router guard (beforeEach) kemudian akan memeriksa status autentikasi
