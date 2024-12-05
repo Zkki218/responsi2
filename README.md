@@ -59,13 +59,13 @@ Halaman ini menampilkan informasi dari user yang sedang Login, foto profil diamb
 
 ### 6. Create Toy
 
-<img src="docs/create.png" height="300">
+<img src="docs/Create.png" height="300">
 
 Fitur menambahkan Toy baru dengan input nama Toy dan Story dari Toy. Klik tombol "+" di pojok kanan bawah untuk membuka modal input. Setelah mengisi, tekan tombol "Add Toy" untuk menyimpan ke Firestore.
 
 ### 7. Read Toy
 
-<img src="docs/read.png" height="300">
+<img src="docs/Read.png" height="300">
 
 Daftar Toy ditampilkan dengan dua section: Active Toys dan Completed Toys. Setiap Toy menampilkan:
 - Nama Toy
@@ -74,7 +74,7 @@ Daftar Toy ditampilkan dengan dua section: Active Toys dan Completed Toys. Setia
 
 ### 8. Update Toy
 
-<img src="docs/update.png" height="300">
+<img src="docs/Update.png" height="300">
 
 Edit Toy dengan cara:
 - Geser Toy ke kanan dan klik ikon pensil
@@ -84,7 +84,7 @@ Edit Toy dengan cara:
 
 ### 9. Delete Toy
 
-<img src="docs/delete.png" height="300">
+<img src="docs/Delete.png" height="300">
 
 Menghapus Toy dengan dua cara:
 - Geser Toy ke kiri dan klik ikon tempat sampah
